@@ -44,5 +44,8 @@ jobs:
         shell: powershell
         run: |
           .\.sonar\scanner\dotnet-sonarscanner begin /k:"sonarcloud-practice_project3-sonarcloud" /o:"sonarcloud-practice" /d:sonar.login="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="https://sonarcloud.io"
-          <insert_your_build_command>
+          /d:sonar.host.url="https://sonarcloud.io/" /d:sonar.cs.opencover.reportsPaths="/TestResults//coverage.opencover.xml" -d:sonar.cs.vstest.reportsPaths="*/TestResults/.trx"
+          dotnet restore
+          dotnet build 
+          dotnet test --no-build --verbosity normal --collect: "XPlat Code Coverage" --logger trx -- DataCollectionRunSettings.DataCollectors.DataCollector.Configuration.Format=opencover
           .\.sonar\scanner\dotnet-sonarscanner end /d:sonar.login="${{ secrets.SONAR_TOKEN }}"
