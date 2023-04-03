@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Desktop\Team-TechWhiz\BackendSolutions\Appointment\DataEntities\bin\Debug\net7.0\DataEntities.deps.json
+C:\Users\Admin\OneDrive\Desktop\Team-TechWhiz\BackendSolutions\Appointment\DataEntities\bin\Debug\net7.0\DataEntities.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\Team-TechWhiz\BackendSolutions\Appointment\DataEntities\bin\Debug\net7.0\DataEntities.dll
+C:\Users\Admin\OneDrive\Desktop\Team-TechWhiz\BackendSolutions\Appointment\DataEntities\bin\Debug\net7.0\DataEntities.pdb
+C:\Users\Admin\OneDrive\Desktop\Team-TechWhiz\BackendSolutions\Appointment\DataEntities\obj\Debug\net7.0\DataEntities.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\Team-TechWhiz\BackendSolutions\Appointment\DataEntities\obj\Debug\net7.0\DataEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\Team-TechWhiz\BackendSolutions\Appointment\DataEntities\obj\Debug\net7.0\DataEntities.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Team-TechWhiz\BackendSolutions\Appointment\DataEntities\obj\Debug\net7.0\DataEntities.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\Team-TechWhiz\BackendSolutions\Appointment\DataEntities\obj\Debug\net7.0\DataEntities.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Team-TechWhiz\BackendSolutions\Appointment\DataEntities\obj\Debug\net7.0\DataEntities.dll
+C:\Users\Admin\OneDrive\Desktop\Team-TechWhiz\BackendSolutions\Appointment\DataEntities\obj\Debug\net7.0\refint\DataEntities.dll
+C:\Users\Admin\OneDrive\Desktop\Team-TechWhiz\BackendSolutions\Appointment\DataEntities\obj\Debug\net7.0\DataEntities.pdb
+C:\Users\Admin\OneDrive\Desktop\Team-TechWhiz\BackendSolutions\Appointment\DataEntities\obj\Debug\net7.0\DataEntities.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\Team-TechWhiz\BackendSolutions\Appointment\DataEntities\obj\Debug\net7.0\ref\DataEntities.dll
